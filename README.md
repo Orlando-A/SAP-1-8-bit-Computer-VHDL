@@ -12,3 +12,10 @@ Este proyecto se inspiró en la serie de YouTube para computadoras de 8 bits de 
 Here are the simulation results that I got after running a post-synthesis functional simulation
 ![sim_pic1](https://user-images.githubusercontent.com/88503620/130123488-214379a8-d05c-4e4e-9d4a-74c6f780776b.png)
 
+![sim_pic2](https://user-images.githubusercontent.com/88503620/130261074-832ab5c3-5f81-424d-a06b-4857d9be4990.png)
+
+![sim_pic3](https://user-images.githubusercontent.com/88503620/130261116-b27f2f77-3f57-4414-aaa1-63bed33adc94.png)
+
+![sim_pic4](https://user-images.githubusercontent.com/88503620/130261133-42151820-bd76-4185-a3ab-b2e5cfef9d88.png)
+
+
